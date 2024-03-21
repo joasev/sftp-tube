@@ -1,0 +1,4 @@
+IP and port: <IP:port>
+Root folder name: <VALUE>
+Temp folder name: <VALUE>
+Temp file name: <VALUE>
